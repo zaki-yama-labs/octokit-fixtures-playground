@@ -1,3 +1,1 @@
 # octokit-fixtures-playground
-
-hello
